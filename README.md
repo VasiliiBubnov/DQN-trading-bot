@@ -1,0 +1,2 @@
+# DQN-trading-bot
+Here we have prototypes of Double Deep Networks (DDN) and Deep Q-Learning Networks (DQN) trading bots. DQN is a combination of Q-Learning and deep neural networks, providing the agent with the capacity to deal with high-dimensional state-action spaces, thereby revolutionizing the field of reinforcement learning. These sophisticated AI tools are capable of learning to make decisions, from deciding on the most lucrative trades to optimizing entry and exit points, in complex, fast-paced, and volatile financial markets.
